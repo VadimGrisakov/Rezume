@@ -31,3 +31,6 @@ Twine Новелла. https://twinery.org/2/#/stories/f2c327c8-1f52-48d8-9e01-00
 Код протокола экзамена: https://colab.research.google.com/drive/1axhbik1PrHCDNXPr91NQMI1HptPHCssl?usp=drive_link
 
 Презентация (Конкурс). https://docs.google.com/presentation/d/16_iji6Sp-tXRYQes16qOhFjwU06ukLeI/edit?usp=drive_link&ouid=106807293236930406155&rtpof=true&sd=true
+
+### 22.01.25
+Телеграм Бот: https://colab.research.google.com/drive/1nu4oFfdt3SX-k1dNUqYxxk7Uvne5O5v1?usp=sharing
