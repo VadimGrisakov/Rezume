@@ -36,3 +36,5 @@ Twine Новелла. https://twinery.org/2/#/stories/f2c327c8-1f52-48d8-9e01-00
 Телеграм Бот: https://colab.research.google.com/drive/1nu4oFfdt3SX-k1dNUqYxxk7Uvne5O5v1?usp=sharing
 
 Таблица для ТелеграммБот: https://docs.google.com/spreadsheets/d/1ufkPHSlSywRPo3tA5-uAwrDYPLcwk01W63ZjN1s-4nw/edit?gid=0#gid=0
+
+Конференция: https://docs.google.com/document/d/1PbZdFpd9yq8Xv07mE4K_T3270OWOu5qv/edit
