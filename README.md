@@ -50,3 +50,5 @@ Twine Новелла. https://twinery.org/2/#/stories/f2c327c8-1f52-48d8-9e01-00
 Предыстория: https://docs.google.com/document/d/1vKfy667ck_FH-GlzSH7Kjz3DgR8JPdxFAIefItSjofY/edit?tab=t.0#heading=h.74nxpf7fgbje
 
 ### 2026
+ИТ-Планета: https://challenge.braim.org/profile
+Траектория будущего: https://tbolimpiada.ru/profile
